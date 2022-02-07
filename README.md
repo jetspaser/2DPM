@@ -1,2 +1,2 @@
 # 2DPM
- Test
+Test task for SWG Games Lab
